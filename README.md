@@ -23,4 +23,5 @@ Follow these steps to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sdmn8or/Orebi.git
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdmn8or&label=Profile%20views&color=0e75b6&style=flat" alt="sdmn8or" /> </p>
 
