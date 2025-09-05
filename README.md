@@ -7,7 +7,6 @@ This project was developed as part of my final project at **Creative IT Institut
 
 ## 🛠️ Tech Stack
 - **React.js** – Frontend library  
-- **Vite** – Development & build tool  
 - **JavaScript (ES6+)** – Core programming language  
 - **Tailwind CSS** – Utility-first CSS framework  
 - **Lucide React** – Icons  
